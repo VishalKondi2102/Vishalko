@@ -1,0 +1,104 @@
+#demo h5{
+    /* font-style: italic; */
+    font-family: cursive;
+    color:darkmagenta;
+}
+#demo h2{
+    /* font-style: italic; */
+    font-family: cursive;
+    color: darkblue;
+}
+#demo p{
+    font-style: italic;
+    color: white;
+}
+
+#About2{
+    background: linear-gradient(rgba(228, 108, 108, 0.9),rgba(59, 59, 218, 0.904),rgba(0, 128, 0, 0.84)),url(../images/background/bg-image-12.jpg);    /* background-position: center ; */
+    background-size: 100% 100%;
+
+}
+
+
+#Box{
+    background: linear-gradient(rgba(228, 108, 108, 0.9),rgba(59, 59, 218, 0.904),rgba(0, 128, 0, 0.84)),url(../images/background/bg-image-9.jpg);    /* background-position: center ; */
+    background-size: 100% 100%
+
+}
+
+#Demo3{
+    background: linear-gradient(rgba(228, 108, 108, 0.126),rgba(59, 59, 218, 0.171),rgba(0, 128, 0, 0.135)),url(../images/background/bg-image-3.jpg);    /* background-position: center ; */
+    background-size: 100% 100%;
+    width: 100%;
+    /* height: 200px; */
+}
+
+#demo8{background: linear-gradient(rgba(228, 108, 108, 0.126),rgba(59, 59, 218, 0.171),rgba(0, 128, 0, 0.135)),url(../images/background/bg-image-6.jpg);    /* background-position: center ; */
+    background-size: 100% 100%;
+    width: 100%;
+    /* height: 200px; */
+
+}
+
+#set5{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: yellow;
+}
+
+#set4{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(22, 138, 142);
+}
+
+#footer{
+     font-family: cursive;
+      background-color: black;
+}
+
+#Ben{
+    font-family:cursive;
+    color:;
+}
+.vishal{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:black;
+}
+.demo4 p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+
+}
+#About h2{
+    font-family: cursive;
+    color: brown;
+}
+
+#About h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslateblue;
+    
+}
+
+#About p{
+    font-family: cursive;
+    color: white;
+}
+
+#continue p{
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-style: italic;
+    color: black;
+
+}
+.man{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: dark black;
+}
+
+
+
+
+
+   
+
+

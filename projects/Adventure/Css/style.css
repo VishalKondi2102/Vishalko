@@ -1,0 +1,598 @@
+*{
+    margin: 0;
+    pa
+    ding: 0;
+    box-sizing: border-box;
+}
+
+#container{
+    width: 100%;
+
+}
+#demo4 h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+
+header div{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;  
+}
+header div div{
+    width: 45%;
+}
+
+.d1 nav{
+    display: none;
+}
+header div div img{
+    width: 100%;
+}
+
+
+
+p{
+    text-align: justify;
+    text-decoration: none;
+}
+#main{
+    height: 80vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.279),rgba(0, 0, 0, 0.169)),url(../images/background/hero-bg.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+    padding: 100px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.content{
+    background-image: url(../images/background/section-bg-img.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    padding: 200px 0px;
+    /* height: 70vh; */
+
+
+    
+    
+}
+#main .content{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     align-items: center;
+     text-align: center;
+}
+
+.content img{
+    /* width: 150px; */
+}
+
+#d3 h1{
+      front-size:4vmin;
+      text-align: center;
+}
+
+
+
+.demo5 img{
+     display: flex;
+     flex-wrap: wrap;
+    width: 100px;
+    justify-content: center;
+    padding: 2px;
+    margin: 5px;
+    height: 100px;
+
+}
+
+.demo5 div{
+    width: 100px;
+    height: 100px;
+}
+
+#demo3{
+
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+
+
+}
+
+.demo4{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+.demo4 h1{
+    color: black;
+    margin-top: 20px;
+}
+.demo4 h2{
+    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:italic;
+}
+
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color:yellow;
+    color:black;
+    font-size: 2.5vmin;
+    padding-bottom: 15px ;
+}
+
+.d1{
+    width: 100%;
+    height: 80px;
+   
+    display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.new2{
+   
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+
+}
+
+input[type=submit]{
+    padding: 10px;
+}
+
+.demo5 div{
+     width: 100%;
+     display: flex;
+     padding: 2px;
+     padding-bottom: 10px; 
+     margin-bottom:50px ;
+     height: 200px;
+     display: flex;
+    justify-content: center; 
+
+}
+.demo5 div img{
+    width: 100%;
+    height: 200px;
+}
+
+#d4{
+    background: linear-gradient(rgba(0, 0, 0, 0.149),rgba(255, 255, 0, 0.157),rgba(255, 0, 0, 0.328));
+    display: flex;
+    flex-wrap: wrap
+
+}
+
+#icon{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.content{
+    
+        /* width: 90%; */
+        border: 1px solid black;
+        margin: 5px;
+        text-align: center;
+    }
+
+
+#demo3{
+    background:linear-gradient(rgba(0, 0, 0, 0.46),rgb(0, 0, 0),),url(../images/background/section-bg-img.jpg);
+  
+    background-size: 100% 100%;
+    padding-bottom: 50px;
+    object-fit: cover;
+    /* position ; */
+    background-attachment: fixed;
+}
+
+#d3 img{
+    width: 100%;
+}
+
+#new5{
+     margin: -20px 0px 0px 290px;
+     padding: 5px;
+}
+#set{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+#set div #ball{
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+
+}
+#set #ball h1{
+    text-align: center;
+    margin-top: 20px;
+    color: orange;
+    font-size: 20px;
+    
+}
+#set #ball p{
+    margin-top: 20px;
+    text-align: center;
+    padding: 20px;
+}
+#set #ball input{
+    text-align: center;
+    margin-bottom: 20px;
+    justify-content: center;
+    background-color: red;
+    margin-left: 80px;
+}
+
+
+#set #ball2 img{
+    width: 100%;
+}
+
+#set2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+#set2  #new7 input{
+     text-align: center;
+     margin-bottom: 23px;
+     justify-content: center;
+     background-color: darkorchid;
+     margin left: 90px;
+
+}
+
+#set2  #new7 p{
+    margin-top: 20px;
+    text-align: center;
+    padding: 20px;
+
+}
+#set2 #new7 img{
+    width: 100%;
+}
+
+#set2 #new7 h1{
+    text-align: center;
+    margin-top: 20px;
+    color: yellowgreens;
+    font-size: 20px;
+    
+}
+
+
+@media only screen and (min-width:768px)
+
+    .new2{
+        width: 48%;
+        
+    }
+    #new5{ margin: -50px 0px 0px 730px;
+        padding: 5px;
+   }
+
+   #d4{
+
+       display: flex;
+       flex-wrap: wrap;   
+       background-color: white; 
+   }
+   .demo5 {
+    background-color: white;
+      width: 50%;
+      display: flex;
+      flex-wrap: wrap;
+
+   }
+   .demo4{
+    width: 50%;
+    background-color: white;
+   }
+   .demo5 div{
+    width: 50%;
+    background-color: white;
+   }
+
+   #box2 img{
+     height: 200px;
+   }
+
+
+   #box3 img{
+      height: 220px;
+   }
+
+   #box4 img{
+     height: 250px;
+     margin-top: -25px;
+   }
+
+   #box5 img{
+      height: 231px;
+      margin-top: -23px;
+   }
+   #set{
+    width: 100%;
+
+   }
+   #set div{
+    width: 47%;
+   }
+
+   #set2{
+    width: 100%;
+
+   }
+
+   #set2 #new7 h1{
+    text-align: center;
+    margin-top: 20px;
+    color: yellowgreens;
+    font-size: 20px;
+    
+}
+
+#set2  #new7 p{
+    margin-top: 20px;
+    text-align: center;
+    padding: 20px;
+    justify-content: center;
+}
+
+
+#set2 #new7 img{
+    width: 100%;
+}
+
+#set2  #new7 input{
+    text-align: center;
+    margin-bottom: 20px;
+    justify-content: center;
+    background-color: darkorchid;
+    margin right: 80px;
+
+
+}
+.demo9{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+        
+    
+
+
+    @media only screen and (min-width:1200px){
+
+        #new img{
+            /* margin: 20px; */
+            margin-top:25px ;
+            padding: 33px;
+            width: 150px;
+            
+        }
+
+
+        #box{
+            text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+        }
+
+        #new5{ display: none ;
+       }
+
+       .d1 nav{
+        display: block;
+        text-decoration: none;
+        list-style-type: none;
+
+    }
+    .d1 nav ul li a{
+         text-decoration:none;
+         list-style: none;
+         color: black;
+         margin: 45px;
+         
+         
+
+    }
+
+    .d1 nav ul{display: flex;
+        flex-wrap: wrap;
+
+         
+    }
+
+
+    .demo4{
+          font-size: x-large;
+          padding: 50px ; 
+
+         
+    }
+
+    #box2 img{
+        height: 270px;
+      }
+
+
+      #box5 img{
+        height: 220px; 
+      }
+
+      #box4 img{
+        height: 230px;
+        
+      }
+
+      #box3 img{
+        height:290px;
+     }
+
+     #demo3 img{  
+              width: 100%;
+
+     }
+
+
+     #d3{ 
+
+        font-size:x-large;
+     }
+     .demo4{
+        /* margin: 5px; */
+        padding: 40px;
+        text-align: center;
+     }
+     .demo4 div h1{
+        margin-top:20px;
+        color: rgba(182, 30, 157, 0.661);
+    }
+    .demo4 div p{
+        margin-top: 20px;
+        font-family: sans-serif;
+    }
+    .demo4 div input{
+        margin-top: 30PX;
+        justify-content: center;
+        background-color: grey;
+        color: white;
+    }
+    .content{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 100%;
+        
+    }
+    .content div p{
+        text-align: center;
+        margin: 20px;
+        padding: 20px;
+        color: rgba(255, 255, 255, 0.781);
+
+    }
+    #set{
+        width: 100%;
+
+    }
+
+    #set2{
+          width: 100%;
+    }
+
+    #set2 div{
+         width: 47%;
+    }
+
+    #new7 div h1{
+          text-align: center;
+          margin-top: 23px;
+          padding: 20px;
+    }
+
+    #new7 div p{
+        
+        text-align: center;
+        margin: 20px;
+        padding: 20px;
+        color: rgba(1, 158, 74, 0.672);
+
+    }
+
+    
+
+
+    
+         
+
+
+
+           
+
+
+
+
+     
+
+
+
+    
+
+       
+        
+
+
+    }
+    
+
+
+
+
+
+
+ 
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+

@@ -1,0 +1,143 @@
+*{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+#demo h1{
+
+
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:aqua;
+
+}
+#demo p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: yellow;
+}
+
+#box1 h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: cadetblue;
+
+}
+
+#box2 p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+    
+}
+
+#demo5 h5{
+    font-family: 'Times New Roman', Times, serif;
+    color: lightcoral;
+
+}
+
+#demo5 p{
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     color: black;
+}
+
+#demo7 h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#demo9 p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:medium;
+
+}
+
+.box8:hover{
+    transform: scale(1.2);
+    /* color:skyblue; */
+    color: orange;
+}
+
+#continue{
+    background:linear-gradient(rgba(255, 192, 203, 0.151),rgba(0, 0, 255, 0.297)),url(../images/background/abstract-1883509_1920-1.jpg);
+ width: 100%;
+ background-size: 100% 100%;
+ display: flex;
+ flex-wrap: wrap;
+ background-repeat: no-repeat;
+ justify-content: center
+}
+.demo4{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:lightcoral;
+}
+.demo4 p{
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+}
+.demo5{
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     */
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.demo6{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.demo9{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ 
+#set2{
+    /* margin-left: 200px;
+     */
+}
+
+#set6{
+  background:linear-gradient(rgba(255, 192, 203, 0.078),rgba(0, 0, 255, 0.178)),url(../images/background/MG_20482.jpg);
+ width: 100%;
+ /* height: 800px; */
+ background-size: 100% 100%;
+ display: flex;
+ /* flex-wrap: wrap; */
+ background-repeat: no-repeat;
+ justify-content: center
+}
+.box7{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style:italic;
+}
+
+.Box {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    color: lightcyan;
+    /* font-size: smaller; */
+    font-size: medium;
+}
+
+#Box2{
+     margin-left: 202px;
+}
+#footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:darkblue;
+    color: white;
+}
+
+#Box3{
+    font-family: cursive;
+}
+
+.Box5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Box6{
+    /* font-family: Georgia, 'Times New Roman', Times, serif;
+     */
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#box1{
+    font-style: italic;
+}
+.demo7{
+    font-family: cursive;
+}
+

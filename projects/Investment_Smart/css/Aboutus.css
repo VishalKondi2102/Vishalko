@@ -1,0 +1,54 @@
+#first{background: linear-gradient(rgba(228, 108, 108, 0.037),rgba(59, 59, 218, 0),rgba(0, 128, 0, 0.032)),url(../images/Aboutus/bg-image-1.jpg);    /* background-position: center ; */
+    background-size: 200% 200%;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+}
+
+.vishal{
+    /* font-style: italic; */
+    /* font-size:xx-large; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight:500;
+
+} 
+
+#Six{
+    background: linear-gradient(rgba(228, 108, 108, 0.9),rgba(59, 59, 218, 0.904),rgba(0, 128, 0, 0.84)),url(../images/background/bg-image-12.jpg);    /* background-position: center ; */
+    background-size: 100% 100%;
+
+}
+#footer{
+    font-family: cursive;
+      background-color: black;
+}
+
+#second p{
+      font-style: italic;
+      color: black;
+
+}
+
+#second h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkblue;
+
+}
+
+.fun{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkorange;
+}
+
+.one{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+
+#Five{
+    font-style: italic;
+}
+#seven p{
+    font-style: italic;
+}

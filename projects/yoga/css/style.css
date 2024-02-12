@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#herosection{
+
+ background:linear-gradient(rgba(255, 192, 203, 0.278),rgba(0, 0, 255, 0.13)),url(../images/hero-img.png);
+ /* height: 100px; */
+ width: 100%;
+ padding: 200px;
+ background-size: 100% 100%;
+ display: flex;
+ flex-wrap: wrap;
+ background-repeat: no-repeat;
+ justify-content: center; 
+}
+#herosection h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#heroselection p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#box{
+    /* margin-top: 30px; */
+    width: 100px;
+    height: 100px;
+    border-radius: 2px solid red;
+    
+}
+
+#main{
+    background-image: linear-gradient(rgba(255, 192, 203, 0.351),rgba(128, 0, 128, 0.237)),url(../images/meditation-bg.png);
+    /* height: 100vh; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+#h1{
+    margin-top: 100px;
+}
+#h2{
+    margin-top: 100px;
+}
+
+#new{
+    background-color: rgba(255, 255, 0, 0.327);
+}
+
+#h3{
+    margin-top:20px;
+    /* padding: 34px; */
+
+}
+
+#h1{
+     background-color: yellow;
+}
+
+#box2{
+    background-color: white;
+}
+
+#box3{
+    margin-top: 108px;
+}
+#box5{
+    /* font-family: 'Times New Roman', Times, serif; */
+
+}
+#new{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#demo6{
+    background-color: skyblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#demo9{
+    background-color: palevioletred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#demo2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#demo2 h6{
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#demo2 h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#demo2 p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#box5{
+    background-color: lightsteelblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+#box3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#demo2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+    
+
+
+#header{
+    background-color: rgb(13,202,240);
+}
+#footer{
+
+    background-image: url(../images/testimonial-bg.jpg);
+}
+#footer p{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#about{
+    background-color: pink;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#dem011{}
+
+
+
+
